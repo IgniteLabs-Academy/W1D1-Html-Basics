@@ -19,6 +19,8 @@ You are required to create a simple HTML file named `index.html` with the follow
      - A `<h1>` heading with your name.
      - A `<p>` paragraph about yourself.
      - An unordered list `<ul>` containing **three** of your favorite technologies (each in a `<li>` tag).
+     - An `<a>` (anchor) element that links to your favorite website.
+     - An `<img>` element displaying any image (for example, your favorite technology's logo or a profile picture).
 
 ## 🧪 Testing & Scoring
 
@@ -28,6 +30,8 @@ Tests include validation for:
 
 - DOCTYPE, Title tag
 - Heading, Paragraph, List
+- Link (`<a>`) element
+- Image (`<img>`) element
 
 ## 🚀 Submission
 
